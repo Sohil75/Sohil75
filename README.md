@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sohil75
 - 👀 I’m interested in coding and debuging 
-- 🌱 I’m currently learning java 
+- 🌱 I’m currently in the learning path of FullStack Development
 - 💞️ I’m looking to collaborate on making project using java and my sql 
 - 📫 you can reach me on my email mdsohil1802@gmail.com
 
