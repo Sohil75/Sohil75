@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Sohil75
-- 👀 I’m interested in coding and debuging 
-- 🌱 I’m currently in the learning path of FullStack Development
-- 💞️ I’m looking to collaborate on making project using java and my sql 
-- 📫 you can reach me on my email mdsohil1802@gmail.com
+## 👋 Hello there! I'm Md Sohil
 
-<!---
-Sohil75/Sohil75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I'm a passionate Full Stack Developer in the making, currently focused on building web applications using the **MERN stack** and **Java + MySQL**.
+
+🔍 I enjoy solving problems through code, debugging complex issues, and learning new technologies along the way.
+
+🌱 Currently enhancing my skills in:
+- Frontend: React.js, HTML, CSS, JavaScript
+- Backend: Node.js, Express, Java
+- Databases: MongoDB, MySQL
+
+🤝 I’m open to collaborating on real-world projects, especially those involving **Java backend** or full stack development.
+
+📫 Let's connect: **mdsohil1802@gmail.com**
+
+> "Code. Debug. Learn. Repeat."
